@@ -20,7 +20,7 @@ projectSection.innerHTML =
 
   <div class="box">
     <a href="https://gold-calculator-india.netlify.app" target="_blank"><img src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?size=338&ext=jpg&ga=GA1.2.1661719016.1671630009&semt=ais" alt=""></a>
-    <h1>name : <span>Gold Calculator </span></h1>
+    <h1>name : <span>Gold Calculator India</span></h1>
     <h1>Technologies used : <span>React, MongoDB, Express, NodeJS</span></h1>
     <h1>Concepts used: <span> API methods, CRUD operations, JWT(for authentication) </span></h1>
     <h1>Github links:   
