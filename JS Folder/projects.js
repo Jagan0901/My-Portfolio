@@ -30,6 +30,18 @@ projectSection.innerHTML =
     
   </div>
 
+  <div class="box">
+    <a href="https://pizzas-hunt.netlify.app/" target="_blank"><img src="https://img.freepik.com/free-vector/desktop-smartphone-app-development_23-2148683810.jpg?size=338&ext=jpg&ga=GA1.2.1661719016.1671630009&semt=ais" alt=""></a>
+    <h1>name : <span>Pizza Hunt</span></h1>
+    <h1>Technologies used : <span>React, MongoDB, Express, NodeJS</span></h1>
+    <h1>Concepts used: <span> API methods, JWT(for authentication), Sign Up & Login </span></h1>
+    <h1>Github links:   
+      
+    <a href="https://github.com/Jagan0901/Pizza-Hunt-Front-End-.git" target="_blank"><p> front-End<i class="fa-brands fa-github"></i></p></a>
+    <a href="https://github.com/Jagan0901/Pizza-Hunt.git" target="_blank"><p>: back-End<i class="fa-brands fa-github"></i></p></h1></a>
+    
+  </div>
+
 
 
 </div>`
