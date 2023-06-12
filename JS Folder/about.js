@@ -13,7 +13,7 @@ aboutSection.innerHTML =
     <h3><span>department:</span>Mathematics</h3>
     <h3><span>CGPA:</span>7.433</h3>
     <h3><span>languages known:</span>Tamil and English</h3>
-    <a href="https://drive.google.com/file/d/1_2eCl5iCptbDtuuooXX8Vxja4rmzAHe7/view" target="_blank"><button class="btn">download CV <i class="fas fa-download"></i></button></a>
+    <a href="https://drive.google.com/file/d/1ePlV70DJIC_9Gl12nPRbBx97uEC27xxf/view" target="_blank"><button class="btn">download CV <i class="fas fa-download"></i></button></a>
    </div>
    
    <div class="contact">

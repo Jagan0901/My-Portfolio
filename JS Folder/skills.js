@@ -46,7 +46,7 @@ skillsSection.innerHTML = `
    </div>
    <div class="skill">
     <img src="https://i.pinimg.com/236x/a9/d0/ec/a9d0ecdc69a7a13d5d63675ff4d655c1.jpg" alt="SQL">
-    <p >SQL</p>
+    <p >MySQL</p>
    </div>
    <div class="skill">
     <img src="https://i.pinimg.com/236x/1a/8a/19/1a8a19e550676f7728f3f8441e9b7684.jpg" alt="Git">
