@@ -68,6 +68,26 @@ section{
     background: var(--yellow);
 }
 
+
+.btns{
+    padding: .7rem 3rem;
+    background: #333;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    border-radius: 5rem;
+
+}
+
+.btns i{
+    padding: 0 .5rem;
+    font-size: 1.3rem;
+}
+
+.btns:hover{
+    background: var(--yellow);
+}
 /* header section starts */
 
 
@@ -268,6 +288,44 @@ header .navbar ul li a:hover{
 
 
 /* projects section ends */
+
+
+/* certificates section starts */
+.certificates .certificateList{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    row-gap: 3rem;
+    column-gap: 3rem;
+    padding: 2rem 0; 
+    
+}
+
+.certificates .certificateList .certificate{
+    width: 28rem;
+    height: 15rem;
+    border: 3px solid whitesmoke;
+}
+
+.certificates .certificateList .certificate h3{
+    font-size: 1.7rem;
+    color: var(--yellow);
+    padding: 1rem 0;
+    font-weight: normal;
+}
+
+.certificates .certificateList .certificate h3 span{
+    color: #eee;
+    padding: 0 .5rem;
+}
+
+.certificates .certificateList .certificate a{
+    display: flex;
+    justify-content: center;
+}
+
+/* certificates section ends  */
 
 
 
