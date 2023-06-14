@@ -1,4 +1,4 @@
-// https://drive.google.com/file/d/1DKDyKCdQpyks9yOeK6Sm3eDbBy2fPMHI/view
+
 const aboutSection = document.createElement('section')
 aboutSection.setAttribute("id","about")
 aboutSection.setAttribute("class","about")
@@ -13,7 +13,7 @@ aboutSection.innerHTML =
     <h3><span>department:</span>Mathematics</h3>
     <h3><span>CGPA:</span>7.433</h3>
     <h3><span>languages known:</span>Tamil and English</h3>
-    <a href="https://drive.google.com/file/d/1eRub_2mTwSaZz3Eccz2WsCF41URnnnLT/view" target="_blank"><button class="btn">download CV <i class="fas fa-download"></i></button></a>
+    <a href="https://drive.google.com/file/d/1fkV_AzDRaej-09ivvZIl5Eib-5sYwvpH/view" target="_blank"><button class="btn">download CV <i class="fas fa-download"></i></button></a>
    </div>
    
    <div class="contact">
