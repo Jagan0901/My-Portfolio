@@ -4,9 +4,10 @@ certificatesSection.setAttribute("class","certificates")
 certificatesSection.innerHTML = `
 <h1 class="heading">my <span>certificates </span></h1>
   <div class="certificateList">
-    <div class="certificate">
+    <div class="certificate" id="fsd">
       <h3><span>Name:</span>Full Stack Development</h3>
       <h3><span>Certified by:</span>GUVI</h3>
+      <h3><span>duration:</span>OCT'22 - DEC'22</h3>
       <a href="https://drive.google.com/file/d/1eCh1x9xB9QJmz8eEdFSTWTElS9U8jbR1/view" target="_blank"><button class="btns">download<i class="fas fa-download"></i></button></a>
     </div>
     <div class="certificate">
@@ -67,5 +68,5 @@ certificatesSection.innerHTML = `
 
     
   </div>
-`
+`;
 document.body.appendChild(certificatesSection)

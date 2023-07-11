@@ -180,6 +180,15 @@ header .navbar ul li a:hover{
     color: #fff;
 }
 
+.home h4 {
+    font-size: 2rem;
+    color: #fff;
+}
+
+.home h4 span{
+    color: var(--yellow);
+}
+
 .home h1{
     font-size: 5rem;
     color: #fff;
@@ -189,6 +198,10 @@ header .navbar ul li a:hover{
     font-size: 2rem;
     color: #eee;
     padding: 1rem 0;
+}
+
+.home p span{
+    color: var(--yellow);
 }
 
 .home h1 span{
@@ -245,7 +258,7 @@ header .navbar ul li a:hover{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    height: 40rem;
+    height: 35rem;
     width: 26rem;
     margin: 2rem;
     gap: 5px;
@@ -308,6 +321,11 @@ header .navbar ul li a:hover{
     border: 3px solid whitesmoke;
 }
 
+.certificates .certificateList #fsd{
+    width: 29rem;
+    height: 19rem;
+}
+
 .certificates .certificateList .certificate h3{
     font-size: 1.7rem;
     color: var(--yellow);
@@ -348,43 +366,33 @@ header .navbar ul li a:hover{
 .about .row{
     display: flex;
     align-items: center;
-    justify-content: center;
+    /* justify-content: center; */
     flex-wrap: wrap;
     padding: 1rem 0;
 }
 
-.about .row .info{
-    flex: 1 1 48rem;
-    padding: 2rem 1rem;
+.about .row p{
+    font-size: 2.55rem;
+    padding: 2rem 6rem;
     padding-left: 6rem;
 }
 
-.about .row .info h3{
+.about .row a{
     font-size: 2rem;
-    color: var(--yellow);
-    padding: 1rem 0;
-    font-weight: normal;
-}
-
-.about .row .info h3 span{
-    color: #eee;
-    padding: 0 .5rem;
-}
-
-.about .row .contact{
-    flex: 1 1 48rem;
     padding-left: 6rem;
-    
 }
 
-.about .row .contact .title{
-    text-transform: uppercase;
-    color: #fff;
-    font-size: 3rem;
-    padding-bottom: 2rem;
+/* about section ends */
+
+
+/* contact section starts */
+
+.contact .info .contact-info{
+    padding-top: 2rem;
+    padding-left: 7rem;
 }
 
-.about .row .contact .contact-info h3{
+.contact .info .contact-info h3{
     display: flex;
     align-items: center;
     font-size: 2rem;
@@ -393,13 +401,23 @@ header .navbar ul li a:hover{
     font-weight: normal;
 }
 
-.about .row .contact .contact-info h3 i{
+.contact .info .contact-info h3 i{
     padding-right: 1rem;
     color: var(--yellow);
 }
 
+.contact .info .contact-info h3 a{
+    color: #fff;
+}
 
-/* about section ends */
+.contact .info .cv{
+    padding-left: 7rem;
+}
+
+.contact .info .contact-info h3 :hover{
+    color: darkblue;
+}
+/* contact section ends  */
 
 
 
