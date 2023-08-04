@@ -10,6 +10,14 @@ certificatesSection.innerHTML = `
       <h3><span>duration:</span>OCT'22 - DEC'22</h3>
       <a href="https://drive.google.com/file/d/1eCh1x9xB9QJmz8eEdFSTWTElS9U8jbR1/view" target="_blank"><button class="btns">download<i class="fas fa-download"></i></button></a>
     </div>
+
+    <div class="certificate" id="fsd">
+      <h3><span>Name:</span>AWS Technical Essentials</h3>
+      <h3><span>Certified by:</span>AWS</h3>
+      <h3><span>Completion Date:</span>29th JUL'23</h3>
+      <a href="https://drive.google.com/file/d/1Z5P91qSlwvryJuMtUhq-gsRJfsNPHA9x/view" target="_blank"><button class="btns">download<i class="fas fa-download"></i></button></a>
+    </div>
+
     <div class="certificate">
       <h3><span>Name:</span>React JS</h3>
       <h3><span>Certified by:</span>GUVI</h3>
