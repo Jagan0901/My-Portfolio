@@ -42,6 +42,18 @@ projectSection.innerHTML = `<h1 class="heading">my <span>Projects </span></h1>
     
   </div>
 
+  <div class="box">
+    <a href="https://we-chat-lets-talk.netlify.app/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSejjHgr_JxDOqfB7mXbP_ISlWM_DGEdNOyTg&usqp=CAU" alt=""></a>
+    <h1><span>We Chat</span>(jul - aug 2023)</h1>
+    <h1>This app will allow users to create accounts using their email addresses and it will provide users with the ability to send and receive text messages in real time.</h1>
+    <h1>Technologies used : <span>MERN stack</span></h1>
+    <h1>Github links:   
+      
+    <a href="https://github.com/Jagan0901/We-Chat.git" target="_blank"><p> front-End<i class="fa-brands fa-github"></i></p></a>
+    <a href="https://github.com/Jagan0901/We-Chat-Back-end.git" target="_blank"><p>: back-End<i class="fa-brands fa-github"></i></p></h1></a>
+    
+  </div>
+
 
 
 </div>`;
