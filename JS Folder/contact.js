@@ -10,8 +10,7 @@ contactSection.innerHTML = `  <h1 class="heading"><span>Contact </span>info</h1>
       <h3><i class="fa-brands fa-linkedin"></i><a href="https://www.linkedin.com/in/jaganath-g-b13b7524a/" target="_blank">linkedin.com/in/jaganath-g-b13b7524a</a></h3>
       </div>
       <div class="cv">
-      <a href="https://drive.google.com/file/d/1ijqnymPFYKkvxzTpiQwfPgYawM6DoCoY/view" target="_blank"><button class="btn">Resume <i class="fas fa-download"></i></button></a>
+      <a href="https://drive.google.com/file/d/1nYEZRtKB0O8iiQlAnbdWYZ02gZRI4Cqr/view" target="_blank"><button class="btn">Resume <i class="fas fa-download"></i></button></a>
      </div>
       </div>`;
 document.body.appendChild(contactSection);
-;
